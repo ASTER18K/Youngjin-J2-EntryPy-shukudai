@@ -1,4 +1,4 @@
-#Youngjin-J2-EntryPy-shukudai
+# Youngjin-J2-EntryPy-shukudai
 <br />
 <br />
 영진전문대학교 J2반 IT창의공학 과제 정리
