@@ -5,10 +5,6 @@ a = 1
 b = 0
 result = 0
 
-b = 0
-
-result = 0
-
 def when_start():
     while True:
         a = 1
