@@ -1,6 +1,6 @@
 #Youngjin-J2-EntryPy-shukudai
 <br />
-<h3>영진전문대학교 J2반 IT창의공학 과제 정리<h3>
+영진전문대학교 J2반 IT창의공학 과제 정리
 <br />
 2101161 이동현
 <br />
