@@ -1,4 +1,4 @@
-# 210322-EntryPy-shukudai1-2
+# 210322-EntryPy-shukudai
 
 영진전문대학교 J2반 IT창의공학 21년 3월 22일자 과제
 
