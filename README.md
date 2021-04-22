@@ -1,4 +1,4 @@
-# Yeungjin-J2-EntryPy-shukudai
+# Yeungjin-J2-EntryPy
 <br />
 <br />
 영진전문대학교 J2반 IT창의공학 과제 정리
