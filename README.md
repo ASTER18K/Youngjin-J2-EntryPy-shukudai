@@ -1,4 +1,4 @@
-# Yeungjin-J2-EntryPy
+# YJ-J2-EntryPy
 <br />
 <br />
 IT창의공학 엔트리 과제 및 결과물 정리
